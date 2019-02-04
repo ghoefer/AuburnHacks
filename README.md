@@ -19,8 +19,8 @@ Our inspiration stems from a story that took place during a massive ice storm a 
 
 * **Gabby Hoefer**
 * **Anisha Nizar Ali**
-* **Aliah**
-* **Lyra**
+* **Aliah Ojendyk**
+* **Lyra Lapuyade**
 
 ## License
 
