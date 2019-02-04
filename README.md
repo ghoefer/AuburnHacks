@@ -1,6 +1,7 @@
 # Mazevo
+Mazevo was awarded **second place** at Auburn Hacks!
 
-Mazevo was developed as our Auburn University Hackathon project submission. We developed the above code in 24 hours, after given a prompt/topic of helping people in natural disasters. We came up with the idea for and fully designed Mazevo, an app to help victims send a help signal or find a place to stay in case of emergency. Additionally, we programmed hardware using an arduino kit to send users location to the app during emergency situations, and coded a skill on Alexa to pair with the app in case the user couldn’t get to a device.
+This project was developed as our Auburn University Hackathon project submission. We developed the above code in 24 hours, after given a prompt/topic of helping people in natural disasters. We came up with the idea for and fully designed Mazevo, an app to help victims send a help signal or find a place to stay in case of emergency. Additionally, we programmed hardware using an arduino kit to send users location to the app during emergency situations, and coded a skill on Alexa to pair with the app in case the user couldn’t get to a device.
 
 ## Inspiration
 
